@@ -1,11 +1,11 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Matt</h1>
-<h3 align="center">A passionate computer science student from PUP Manila</h3>
+<h1 align="center">Hi 👋🏻‘‹, I'm Matt</h1>
+<h3 align="center">A passionate computer science student👨‍💻 from PUP Manila 🇵🇭</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardi&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
 
-- ðŸ“« How to reach me **gallardomatthew8@gmail.com**
+- ✉️“« How to reach me **gallardomatthew8@gmail.com**
 
-- âš¡ Fun fact **My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession. If you're watching this tape, I'm probably deadâ€“**
+- 😆Fun fact **My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession. If you're watching this tape, I'm probably dead“**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
