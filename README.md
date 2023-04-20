@@ -5,7 +5,7 @@
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-• 😆Fun fact: **My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession. If you're watching this tape, I'm probably dead“**
+•🌱 I’m currently learning: AI Machine Learnings
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
