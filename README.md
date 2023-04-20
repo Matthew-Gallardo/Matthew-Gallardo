@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
 
-• ✉️ How to reach me **gallardomatthew8@gmail.com**
+• ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-• 😆Fun fact **My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession. If you're watching this tape, I'm probably dead“**
+• 😆Fun fact: **My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession. If you're watching this tape, I'm probably dead“**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
