@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻‘‹, I'm Matt</h1>
+<h1 align="center">Hi 👋🏻 ! , I'm Matt</h1>
 <h3 align="center">A passionate computer science student👨‍💻 from PUP Manila 🇵🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
