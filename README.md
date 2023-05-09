@@ -3,7 +3,7 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-<h3 align="center">A passionate computer science student👨‍💻 from PUP Manila 🇵🇭</h3>
+<h3 align="center">Computer science student👨‍💻 @ PUP Manila 🇵🇭</h3>
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
