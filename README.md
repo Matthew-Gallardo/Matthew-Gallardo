@@ -10,7 +10,7 @@
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-•🌱 I’m currently learning: AI Machine Learnings 
+•🌱 I’m currently learning: Artificial Intelligence & Machine Learning 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
