@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matt <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="capoo-blue-cat.gif" width="200" height="200">
 </div>
 <h2 align="center">Computer science student👨‍💻 @ Polytechnic University of the Philippines MNL 🇵🇭</h2>
 
