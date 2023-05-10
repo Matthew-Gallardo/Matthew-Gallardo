@@ -5,7 +5,7 @@
 </div>
 <h2 align="center">Computer science student👨‍💻 @ Polytechnic University of the Philippines MNL 🇵🇭</h2>
 
-<img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif' width='150"'>
+<img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
 
@@ -30,6 +30,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Matthew-Gallardo&show_icons=true&theme=synthwave" alt="Matthew-Gallardo :: Profile Stats" />
 </p>
 <p>
-<img src ="tumblr_mirqylx9Sy1rfjowdo1_500.gif" />
+<img align= "center" src ="tumblr_mirqylx9Sy1rfjowdo1_500.gif" />
 
 </p>
