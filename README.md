@@ -5,7 +5,8 @@
 </div>
 <h3 align="center">Computer science student👨‍💻 @ Polytechnic University of the Philippines MNL 🇵🇭</h3>
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://github.com/Matthew-Gallardo/Matthew-Gallardo/blob/main/octocat-anime.gif' width='150"'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
