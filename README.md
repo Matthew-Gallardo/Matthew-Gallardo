@@ -29,7 +29,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Matthew-Gallardo&show_icons=true&theme=synthwave" alt="Matthew-Gallardo :: Profile Stats" />
 </p>
-<p>
-<img align= "center" src ="tumblr_mirqylx9Sy1rfjowdo1_500.gif" />
+<div align="center" >
+<img src ="tumblr_mirqylx9Sy1rfjowdo1_500.gif" />
 
-</p>
+<div/>
+
+
+
