@@ -5,7 +5,8 @@
 </div>
 <h2 align="center">Computer Science Student 👨‍💻 @ Polytechnic University of the Philippines MNL 🇵🇭</h2>
 
-<img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif'>
+<img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif' width='450' height='500'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
 
