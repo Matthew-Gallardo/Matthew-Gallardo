@@ -8,7 +8,9 @@
 <img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif' width='450' height='500'>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> 
+[![wakatime](https://wakatime.com/badge/user/b2669d32-a3af-4ca9-8282-45e48a42395b.svg)](https://wakatime.com/@b2669d32-a3af-4ca9-8282-45e48a42395b)
+</p>
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
