@@ -33,7 +33,7 @@
 																   
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Gallardo&langs_count=10&hide=html&theme=synthwave&layout=compact" alt="Matthew-Gallardo :: Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Gallardo&langs_count=8&hide=html,jupyter%20notebook&theme=synthwave&layout=compact" alt="Matthew-Gallardo :: Top Languages" />
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Matthew-Gallardo&show_icons=true&theme=synthwave" alt="Matthew-Gallardo :: Profile Stats" />
