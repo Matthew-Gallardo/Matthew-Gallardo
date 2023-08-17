@@ -18,7 +18,7 @@
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-•🌱 I’m currently learning: NextJs and Artificial Intelligence
+•🌱 I’m currently learning: VueJs and Artificial Intelligence
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
