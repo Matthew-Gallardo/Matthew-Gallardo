@@ -3,7 +3,7 @@
 	<br>
 	<img src="capoo-blue-cat.gif" width="200" height="200">
 </div>
-<h2 align="center"> Full stack Software Engineer Intern | Computer Science Student 👨‍💻 @ PUP Manila 🇵🇭</h2>
+<h2 align="center"> Full Stack Software Engineer Intern | Computer Science Student 👨‍💻 @ PUP Manila 🇵🇭</h2>
 
 <img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif' width='450' height='500'>
 
