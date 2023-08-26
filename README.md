@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=matthew-gallardo&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-gallardo" /> 
   <a href="https://wakatime.com/@b2669d32-a3af-4ca9-8282-45e48a42395b">
-    <img src="https://wakatime.com/badge/user/b2669d32-a3af-4ca9-8282-45e48a42395b.svg" alt="Wakatime" />
+    <img src="https://wakatime.com/badge/user/b2669d32-a3af-4ca9-8282-45e48a42395b.svg" alt="Coding Time" />
   </a>
 </p>
 
