@@ -18,7 +18,7 @@
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-•🌱 I’m currently learning: JestJs/Vite Test - Test Driven Development 
+•🌱 I’m currently learning: JestJs|Vitest - Test Driven Development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
