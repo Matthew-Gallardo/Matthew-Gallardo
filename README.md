@@ -38,6 +38,9 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Matthew-Gallardo&show_icons=true&theme=synthwave" alt="Matthew-Gallardo :: Profile Stats" />
 </p>
+
+<figure><embed src="https://wakatime.com/share/@MattG/96b73087-4d4b-4346-924f-637cbe271690.svg"></embed></figure>
+
 <div align="center" >
 <img src ="tumblr_mirqylx9Sy1rfjowdo1_500.gif" />
 
