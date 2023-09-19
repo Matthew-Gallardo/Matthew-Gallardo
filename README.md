@@ -18,7 +18,7 @@
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-•🌱 I’m currently learning: Docker
+•🌱 I’m currently learning: Docker and Linux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
