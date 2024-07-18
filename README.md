@@ -3,7 +3,7 @@
 	<br>
 	<img src="capoo-blue-cat.gif" width="200" height="200">
 </div>
-<h2 align="center"> Computer Science Student 👨‍💻 @ PUP Manila 🇵🇭</h2>
+<h2 align="center"> Computer Science Graduate 👨‍💻 @ PUP Manila 🇵🇭</h2>
 
 <img align='right' src='tumblr_mkucb0d34z1r67h3uo1_500.gif' width='450' height='500'>
 
