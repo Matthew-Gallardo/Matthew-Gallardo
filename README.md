@@ -18,7 +18,7 @@
 
 • ✉️ How to reach me:  **gallardomatthew8@gmail.com**
 
-•🌱 I’m currently learning: Full Stack WEB Development using Spring and React Typescript
+•🌱 I’m currently learning: Backend Development Using Spring Boot, Graphql and MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
