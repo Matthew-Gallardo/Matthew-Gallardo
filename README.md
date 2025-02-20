@@ -36,18 +36,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 April 2023 - To: 18 February 2025
+From: 18 April 2023 - To: 19 February 2025
 
-Total Time: 830 hrs 2 mins
+Total Time: 830 hrs 15 mins
 
-Java              365 hrs 11 mins >>>>>>>>>>>--------------   43.91 %
+Java              365 hrs 24 mins >>>>>>>>>>>--------------   43.92 %
 JavaScript        189 hrs 53 mins >>>>>>-------------------   22.83 %
 Python            98 hrs 19 mins  >>>----------------------   11.82 %
 XML               53 hrs 22 mins  >>-----------------------   06.42 %
 CSS               23 hrs 37 mins  >------------------------   02.84 %
 SQL               21 hrs 53 mins  >------------------------   02.63 %
 JSON              13 hrs 11 mins  -------------------------   01.59 %
-TypeScript        10 hrs 41 mins  -------------------------   01.29 %
+TypeScript        10 hrs 41 mins  -------------------------   01.28 %
 Vue.js            10 hrs 33 mins  -------------------------   01.27 %
 HTML              9 hrs 6 mins    -------------------------   01.09 %
 ```
